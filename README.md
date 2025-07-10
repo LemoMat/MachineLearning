@@ -47,3 +47,6 @@ plt.show()
 
 ````
 
+## Ouput
+
+![image](https://github.com/user-attachments/assets/f32f4eb8-b5e7-465b-a9f1-dcf145220a90)
