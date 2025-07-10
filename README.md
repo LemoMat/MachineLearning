@@ -1,6 +1,7 @@
 # MachineLearning
 
-Prediction of the sales in the next 10 days uisng the linear regression model
+- Prediction of the sales in the next 10 days uisng the linear regression model
+- Run the file in Jupyter notebook
 
 ````python
 import pandas as pd
